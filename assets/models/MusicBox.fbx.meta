@@ -1,0 +1,193 @@
+{
+  "ver": "1.1.1",
+  "uuid": "47ecdf77-83bd-456b-a1d2-5ece999ad8de",
+  "scaleFactor": 1,
+  "boneCount": 0,
+  "precomputeJointMatrix": false,
+  "animationFrameRate": 30,
+  "subMetas": {
+    "buffer.bin": {
+      "ver": "1.0.0",
+      "uuid": "8db29d25-7f92-48b6-bec5-4e3e1ded3766",
+      "name": "buffer.bin",
+      "subMetas": {}
+    },
+    "BoxMusic_4.mesh": {
+      "ver": "1.0.1",
+      "uuid": "7e95e324-c952-46be-9f83-0695298bf82c",
+      "verts": 96,
+      "tris": 44,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0749999955296516,
+        "y": -4.1120463467185e-18,
+        "z": -0.0749999955296516
+      },
+      "maxPos": {
+        "x": 0.0749999955296516,
+        "y": 0.149999991059303,
+        "z": 0.0749999955296516
+      },
+      "name": "BoxMusic_4.mesh",
+      "subMetas": {}
+    },
+    "BoxMusic_5.mesh": {
+      "ver": "1.0.1",
+      "uuid": "22e033f9-dcc0-47fa-abdd-0ca8e1552fe9",
+      "verts": 96,
+      "tris": 44,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0749999955296516,
+        "y": -4.1120463467185e-18,
+        "z": -0.0749999955296516
+      },
+      "maxPos": {
+        "x": 0.0749999955296516,
+        "y": 0.149999991059303,
+        "z": 0.0749999955296516
+      },
+      "name": "BoxMusic_5.mesh",
+      "subMetas": {}
+    },
+    "MusicBox.prefab": {
+      "ver": "1.2.9",
+      "uuid": "b6dba30f-0585-4f04-8c68-a3833bc4c292",
+      "optimizationPolicy": "AUTO",
+      "asyncLoadAssets": false,
+      "readonly": true,
+      "content": [
+        {
+          "__type__": "cc.Prefab",
+          "_name": "",
+          "_objFlags": 0,
+          "data": {
+            "__id__": 1
+          }
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Sprite",
+          "_objFlags": 0,
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_cascadeOpacityEnabled": true,
+          "_parent": null,
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 40,
+            "height": 36
+          },
+          "_children": [],
+          "_skewX": 0,
+          "_skewY": 0,
+          "_localZOrder": 0,
+          "_globalZOrder": 0,
+          "_tag": -1,
+          "_opacityModifyRGB": false,
+          "_reorderChildDirty": false,
+          "_id": "",
+          "_active": true,
+          "_components": [
+            {
+              "__id__": 2
+            }
+          ],
+          "_prefab": {
+            "__id__": 3
+          },
+          "_eulerAngles": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_trs": {
+            "__type__": "TypedArray",
+            "ctor": "Float64Array",
+            "array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "__type__": "cc.Sprite",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 1
+          },
+          "_enabled": true,
+          "_spriteFrame": {
+            "__uuid__": "8cdb44ac-a3f6-449f-b354-7cd48cf84061"
+          },
+          "_type": 0,
+          "_sizeMode": 1,
+          "_fillType": 0,
+          "_fillCenter": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          },
+          "_fillStart": 0,
+          "_fillRange": 0,
+          "_isTrimmedMode": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_atlas": null
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": null,
+          "fileId": "d7118yAG5lKybkFOAh8koPL"
+        }
+      ],
+      "name": "MusicBox.prefab",
+      "subMetas": {}
+    },
+    "Material #2.mtl": {
+      "ver": "1.0.3",
+      "uuid": "08e40798-0e6e-46b1-b465-b91afb33e659",
+      "dataAsSubAsset": "{\n  \"__type__\": \"cc.Material\",\n  \"_name\": \"\",\n  \"_objFlags\": 0,\n  \"_native\": \"\",\n  \"_effectAsset\": {\n    \"__uuid__\": \"6d91e591-4ce0-465c-809f-610ec95019c6\"\n  },\n  \"_techniqueIndex\": 0,\n  \"_techniqueData\": {\n    \"0\": {\n      \"props\": {\n        \"diffuseColor\": {\n          \"__type__\": \"cc.Color\",\n          \"r\": 255,\n          \"g\": 255,\n          \"b\": 255,\n          \"a\": 255\n        },\n        \"diffuseTexture\": {\n          \"__uuid__\": \"a0a4b759-104b-455b-8eec-c25768f5b113\"\n        }\n      },\n      \"defines\": {\n        \"USE_DIFFUSE_TEXTURE\": true\n      }\n    }\n  }\n}",
+      "name": "Material #2.mtl",
+      "subMetas": {}
+    }
+  }
+}

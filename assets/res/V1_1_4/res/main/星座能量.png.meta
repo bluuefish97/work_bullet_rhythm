@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b020335d-f946-4817-b4c2-cabfe9e6ba53",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 188,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "星座能量": {
+      "ver": "1.0.4",
+      "uuid": "9491ee5f-5a83-4f90-bdf5-231328c2cd84",
+      "rawTextureUuid": "b020335d-f946-4817-b4c2-cabfe9e6ba53",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 188,
+      "height": 44,
+      "rawWidth": 188,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

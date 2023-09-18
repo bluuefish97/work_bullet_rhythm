@@ -1,0 +1,57 @@
+{
+  "title": "zdsjjzqs",
+  "packageName": "",
+  "startScene": "b7dde768-441f-40a8-a813-f8bc3cbd500b",
+  "excludeScenes": [
+    "0e598ceb-ad76-442d-b272-a203615036cb"
+  ],
+  "includeSDKBox": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "webOrientation": "portrait",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": false,
+  "xxteaKey": "fcc46679-26e4-47",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": ""
+  },
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": ""
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "",
+    "width": 1280
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "nativeMd5Cache": false
+}

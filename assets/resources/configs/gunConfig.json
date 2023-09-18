@@ -1,0 +1,88 @@
+﻿[
+    {
+        "id": "v1_1_4_aquarius",
+        "gunName": "默认",
+        "ironPath": "gun/v1_1_4_aquarius",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": "v1_1_3_victory",
+        "gunName": "默认",
+        "ironPath": "gun/v1_1_3_victory",
+        "unlockType": "v1_1_3Vlimit",
+        "unlockVal": 0
+    },
+    {
+        "id": "v1_1_3_fail",
+        "gunName": "默认",
+        "ironPath": "gun/v1_1_3_fail",
+        "unlockType": "v1_1_3Flimit",
+        "unlockVal": 0
+    },
+    {
+        "id": "v1_1_2_98k",
+        "gunName": "默认",
+        "ironPath": "gun/v1_1_2_98k",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": "v1_1_2_95",
+        "gunName": "默认",
+        "ironPath": "gun/v1_1_2_95",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": "2020ZQ",
+        "gunName": "默认",
+        "ironPath": "gun/2020ZQ",
+        "unlockType": "limit",
+        "unlockVal": 0
+    },
+    {
+        "id": 1,
+        "gunName": "默认",
+        "ironPath": "gun/1",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+
+    {
+        "id": 3,
+        "gunName": "默认",
+        "ironPath": "gun/3",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": 4,
+        "gunName": "默认",
+        "ironPath": "gun/4",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": 5,
+        "gunName": "默认",
+        "ironPath": "gun/5",
+        "unlockType": "dia",
+        "unlockVal": 500
+    },
+    {
+        "id": 6,
+        "gunName": "默认",
+        "ironPath": "gun/6",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": 7,
+        "gunName": "默认",
+        "ironPath": "gun/7",
+        "unlockType": "dia",
+        "unlockVal": 800
+    }
+   
+]

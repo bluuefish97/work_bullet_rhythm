@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "16f4d898-6f46-4460-9174-d9b876c1a7fa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 46,
+  "platformSettings": {},
+  "subMetas": {
+    "iron_coin_zuanshi": {
+      "ver": "1.0.4",
+      "uuid": "7907f348-3c4f-4b50-863d-e6a7124e9773",
+      "rawTextureUuid": "16f4d898-6f46-4460-9174-d9b876c1a7fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 46,
+      "rawWidth": 64,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

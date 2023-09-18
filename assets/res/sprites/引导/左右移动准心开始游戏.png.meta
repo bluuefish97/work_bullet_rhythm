@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "667a0983-53fb-4a32-ab6d-478c588fc75e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 315,
+  "height": 46,
+  "platformSettings": {},
+  "subMetas": {
+    "左右移动准心开始游戏": {
+      "ver": "1.0.4",
+      "uuid": "41e1c321-9f4a-4f9e-839c-c5cf28ab404f",
+      "rawTextureUuid": "667a0983-53fb-4a32-ab6d-478c588fc75e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 315,
+      "height": 46,
+      "rawWidth": 315,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

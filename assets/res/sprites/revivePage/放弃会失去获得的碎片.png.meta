@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4d7d124c-06c3-4503-838e-f6e1edfa9f5f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 599,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "放弃会失去获得的碎片": {
+      "ver": "1.0.4",
+      "uuid": "62faad20-3e14-473d-a2cc-1d615b865e4a",
+      "rawTextureUuid": "4d7d124c-06c3-4503-838e-f6e1edfa9f5f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 599,
+      "height": 60,
+      "rawWidth": 599,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

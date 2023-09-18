@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b6d2ede6-541f-4d54-9d6d-cffacd2e3715",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 501,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "确定放弃机会吗": {
+      "ver": "1.0.4",
+      "uuid": "aeb3b2f3-e40a-4760-a161-001e041eeab4",
+      "rawTextureUuid": "b6d2ede6-541f-4d54-9d6d-cffacd2e3715",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 501,
+      "height": 72,
+      "rawWidth": 501,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

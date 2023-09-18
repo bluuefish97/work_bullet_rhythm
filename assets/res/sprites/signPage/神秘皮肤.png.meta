@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "af8f3102-eaf5-409b-a62d-ca5dbbf284aa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 167,
+  "height": 41,
+  "platformSettings": {},
+  "subMetas": {
+    "神秘皮肤": {
+      "ver": "1.0.4",
+      "uuid": "6862dba0-cd80-49bd-9cf8-112caf3b6359",
+      "rawTextureUuid": "af8f3102-eaf5-409b-a62d-ca5dbbf284aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 167,
+      "height": 41,
+      "rawWidth": 167,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

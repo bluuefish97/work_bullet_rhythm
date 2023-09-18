@@ -1,0 +1,70 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "diaAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "0": {
+        "props": {
+          "position": []
+        }
+      },
+      "5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                30,
+                5
+              ],
+              "motionPath": [
+                [
+                  65,
+                  86,
+                  101,
+                  17,
+                  -8,
+                  227
+                ],
+                [
+                  -289,
+                  610,
+                  -179,
+                  444,
+                  -353,
+                  707
+                ]
+              ],
+              "curve": "quartIn"
+            },
+            {
+              "frame": 3,
+              "value": [
+                -391,
+                811
+              ],
+              "motionPath": []
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -39
+            },
+            {
+              "frame": 2.9833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

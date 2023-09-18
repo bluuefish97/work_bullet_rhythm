@@ -1,0 +1,382 @@
+{
+  "ver": "1.1.1",
+  "uuid": "39423dee-3c02-41ce-b971-4ef4fb3863c5",
+  "scaleFactor": 1,
+  "boneCount": 0,
+  "precomputeJointMatrix": false,
+  "animationFrameRate": 30,
+  "subMetas": {
+    "buffer.bin": {
+      "ver": "1.0.0",
+      "uuid": "4394e84f-9424-4775-88ee-08703c894354",
+      "name": "buffer.bin",
+      "subMetas": {}
+    },
+    "gun_03_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "b8d0bc8c-52d8-45ba-91f8-209bfd5a7aad",
+      "verts": 564,
+      "tris": 407,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0587274916470051,
+        "y": 0.0000294495366688352,
+        "z": -0.00923665426671505
+      },
+      "maxPos": {
+        "x": 0.109446875751019,
+        "y": 0.0635502487421036,
+        "z": 0.0102570224553347
+      },
+      "name": "gun_03_0.mesh",
+      "subMetas": {}
+    },
+    "gun_04_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "daaaa512-8bae-4a81-bb94-a885bf46ddb9",
+      "verts": 625,
+      "tris": 460,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0795698091387749,
+        "y": -0.00058895128313452,
+        "z": -0.00718137715011835
+      },
+      "maxPos": {
+        "x": 0.0775822028517723,
+        "y": 0.0650624558329582,
+        "z": 0.00718136411160231
+      },
+      "name": "gun_04_0.mesh",
+      "subMetas": {}
+    },
+    "gun_05_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "03330492-4cac-4b71-8d86-fc00c23eddaa",
+      "verts": 1104,
+      "tris": 758,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0442187152802944,
+        "y": -0.010152030736208,
+        "z": -0.00600901478901505
+      },
+      "maxPos": {
+        "x": 0.0934323593974113,
+        "y": 0.0577561259269714,
+        "z": 0.00648080511018634
+      },
+      "name": "gun_05_0.mesh",
+      "subMetas": {}
+    },
+    "gun_06_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "b078e7a2-5d9c-4c51-920e-add98696bdb5",
+      "verts": 667,
+      "tris": 446,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0527544766664505,
+        "y": -0.00599927362054586,
+        "z": -0.0100458702072501
+      },
+      "maxPos": {
+        "x": 0.101024568080902,
+        "y": 0.0501839481294155,
+        "z": 0.0100460220128298
+      },
+      "name": "gun_06_0.mesh",
+      "subMetas": {}
+    },
+    "gun_07_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "013cee84-aa87-4e6e-b3d3-392a1cd5b784",
+      "verts": 875,
+      "tris": 552,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0870712324976921,
+        "y": -0.0241617206484079,
+        "z": -0.025686701759696
+      },
+      "maxPos": {
+        "x": 0.0947483405470848,
+        "y": 0.0582373663783073,
+        "z": 0.0249199569225311
+      },
+      "name": "gun_07_0.mesh",
+      "subMetas": {}
+    },
+    "gun_08_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "65efde63-8883-4de9-99cb-1c24d46d4d02",
+      "verts": 1039,
+      "tris": 638,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.087925873696804,
+        "y": -0.0126336663961411,
+        "z": -0.02254394069314
+      },
+      "maxPos": {
+        "x": 0.0879504680633545,
+        "y": 0.0770271643996239,
+        "z": 0.0225438866764307
+      },
+      "name": "gun_08_0.mesh",
+      "subMetas": {}
+    },
+    "gun_09_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "cf475d63-9c3c-4f52-a310-a809bc13ae36",
+      "verts": 1591,
+      "tris": 1085,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0255189407616854,
+        "y": -0.0100420750677586,
+        "z": -0.04309406504035
+      },
+      "maxPos": {
+        "x": 0.138074174523354,
+        "y": 0.0590912699699402,
+        "z": 0.0432523414492607
+      },
+      "name": "gun_09_0.mesh",
+      "subMetas": {}
+    },
+    "gun_01_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "8fea9cf8-680d-45a1-be09-6bd025db79ee",
+      "verts": 368,
+      "tris": 238,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": 0.000243468282860704,
+        "y": -0.0129392622038722,
+        "z": -0.00834292359650135
+      },
+      "maxPos": {
+        "x": 0.102193564176559,
+        "y": 0.0748592615127563,
+        "z": 0.0109721887856722
+      },
+      "name": "gun_01_0.mesh",
+      "subMetas": {}
+    },
+    "gun_11_0.mesh": {
+      "ver": "1.0.1",
+      "uuid": "f68c0428-a788-41cd-8058-35975e560809",
+      "verts": 1276,
+      "tris": 1378,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_normal",
+          "a_position",
+          "a_uv0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.101278454065323,
+        "y": -0.0660515353083611,
+        "z": -0.0629233047366142
+      },
+      "maxPos": {
+        "x": 0.107807941734791,
+        "y": 0.0945653095841408,
+        "z": 0.062923327088356
+      },
+      "name": "gun_11_0.mesh",
+      "subMetas": {}
+    },
+    "P3_Gun3.prefab": {
+      "ver": "1.2.9",
+      "uuid": "1b8578d3-a160-4a52-af1c-400701b7c6fa",
+      "optimizationPolicy": "AUTO",
+      "asyncLoadAssets": false,
+      "readonly": true,
+      "content": [
+        {
+          "__type__": "cc.Prefab",
+          "_name": "",
+          "_objFlags": 0,
+          "data": {
+            "__id__": 1
+          }
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Sprite",
+          "_objFlags": 0,
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_cascadeOpacityEnabled": true,
+          "_parent": null,
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 40,
+            "height": 36
+          },
+          "_children": [],
+          "_skewX": 0,
+          "_skewY": 0,
+          "_localZOrder": 0,
+          "_globalZOrder": 0,
+          "_tag": -1,
+          "_opacityModifyRGB": false,
+          "_reorderChildDirty": false,
+          "_id": "",
+          "_active": true,
+          "_components": [
+            {
+              "__id__": 2
+            }
+          ],
+          "_prefab": {
+            "__id__": 3
+          },
+          "_eulerAngles": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_trs": {
+            "__type__": "TypedArray",
+            "ctor": "Float64Array",
+            "array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "__type__": "cc.Sprite",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 1
+          },
+          "_enabled": true,
+          "_spriteFrame": {
+            "__uuid__": "8cdb44ac-a3f6-449f-b354-7cd48cf84061"
+          },
+          "_type": 0,
+          "_sizeMode": 1,
+          "_fillType": 0,
+          "_fillCenter": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          },
+          "_fillStart": 0,
+          "_fillRange": 0,
+          "_isTrimmedMode": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_atlas": null
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": null,
+          "fileId": "d7118yAG5lKybkFOAh8koPL"
+        }
+      ],
+      "name": "P3_Gun3.prefab",
+      "subMetas": {}
+    },
+    "Box001_frag_049_default.mtl": {
+      "ver": "1.0.3",
+      "uuid": "fa4ddcc3-048c-4037-93da-0d68289c222b",
+      "dataAsSubAsset": null,
+      "name": "Box001_frag_049_default.mtl",
+      "subMetas": {}
+    },
+    "02 - Default.mtl": {
+      "ver": "1.0.3",
+      "uuid": "da626ffa-97fa-403e-9d18-9e90c84a0eae",
+      "dataAsSubAsset": "{\n  \"__type__\": \"cc.Material\",\n  \"_name\": \"\",\n  \"_objFlags\": 0,\n  \"_native\": \"\",\n  \"_effectAsset\": {\n    \"__uuid__\": \"6d91e591-4ce0-465c-809f-610ec95019c6\"\n  },\n  \"_techniqueIndex\": 0,\n  \"_techniqueData\": {\n    \"0\": {\n      \"props\": {\n        \"diffuseColor\": {\n          \"__type__\": \"cc.Color\",\n          \"r\": 255,\n          \"g\": 255,\n          \"b\": 255,\n          \"a\": 255\n        },\n        \"diffuseTexture\": {\n          \"__uuid__\": \"960c67b3-2e1a-469c-9b33-b4e23ae5d1b9\"\n        }\n      },\n      \"defines\": {\n        \"USE_DIFFUSE_TEXTURE\": true\n      }\n    }\n  }\n}",
+      "name": "02 - Default.mtl",
+      "subMetas": {}
+    }
+  }
+}

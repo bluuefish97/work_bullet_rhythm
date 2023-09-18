@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "diaRewardLightAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "0": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -40
+            },
+            {
+              "frame": 1,
+              "value": 30
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 175
+            },
+            {
+              "frame": 0.5,
+              "value": 60
+            },
+            {
+              "frame": 1,
+              "value": 175
+            }
+          ]
+        }
+      },
+      "1": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -4.7172231562808165
+            },
+            {
+              "frame": 1,
+              "value": -20
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 165.75654696243907
+            },
+            {
+              "frame": 0.5,
+              "value": 175
+            },
+            {
+              "frame": 1,
+              "value": 60
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

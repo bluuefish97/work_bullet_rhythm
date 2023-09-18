@@ -1,0 +1,62 @@
+﻿[
+    {
+        "id": 0,
+        "stageName": "默认蓝",
+        "groundsPath": "stage/0",
+        "roadColor": "#2846FF",
+        "roadLineColor":"#AAD8FF",
+        "roadLineLightColor":"#2D47E3",
+        "roadLineLightScaleX":0.7,
+        "lineColor": "#2178EF",
+        "hitlightColor":"#7FCDF8",
+        "windColor":"#2178EF",
+        "scoreLabelColor":"#FFFFFF",
+        "gunPlatformColor":"#64B8FF",
+        "fgSkewY": 111.783
+    },
+    {
+        "id": 1,
+        "stageName": "紫红",
+        "groundsPath": "stage/1",
+        "roadColor": "#870C7B",
+        "roadLineColor":"#F3A8FF",
+        "roadLineLightColor":"#930295",
+        "roadLineLightScaleX":0.7,
+        "lineColor": "#F418DE",
+        "hitlightColor":"#E93EFC",
+        "windColor":"#FFDEBD",
+        "scoreLabelColor":"#FFFFFF",
+        "gunPlatformColor":"#FF44F4",
+        "fgSkewY":97.125
+    },
+    {
+        "id": 2,
+        "stageName": "丛林绿",
+        "groundsPath": "stage/2",
+        "roadColor": "#2D7601", 
+        "roadLineColor":"#90DAA0",
+        "roadLineLightColor":"#1C7A16",
+        "roadLineLightScaleX":0.7,
+        "lineColor": "#A4E639",
+        "hitlightColor":"#0AF9C4",
+        "windColor": "#A4E639",
+        "scoreLabelColor":"#FFFFFF",
+        "gunPlatformColor":"#4EA728",
+        "fgSkewY": 91.426
+    },
+    {
+        "id": 3,
+        "stageName": "城市",
+        "groundsPath": "stage/3",
+        "roadColor": "#042758",
+        "roadLineColor":"#65B3C4",
+        "roadLineLightColor":"#1A438C",
+        "roadLineLightScaleX":0.7,
+        "lineColor": "#2EC9FF",
+        "hitlightColor":"#7FCDF8",
+        "windColor":"#2EC9FF",
+        "scoreLabelColor":"#FFFFFF",
+        "gunPlatformColor":"#64B8FF",
+        "fgSkewY":88.468
+    }
+]

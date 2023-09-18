@@ -1,0 +1,18 @@
+{
+  "package": "com.zdjz.demo",
+  "name": "子弹节奏",
+  "icon": "E:\\A_ZQ2020work\\CocosProjects_Main\\Music_bullet_rhythm\\Iron\\icon-1.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1040",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageServer": "https://tencentcnd.minigame.xplaymobile.com/Zhangqiang/zdjz/vivo/v1.0.4",
+  "useDebugKey": true,
+  "privatePath": "",
+  "certificatePath": "",
+  "disabledMode": "disabled is-disabled",
+  "showNpmPath": false,
+  "packFirstScreenRes": true
+}

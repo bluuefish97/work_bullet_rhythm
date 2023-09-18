@@ -1,0 +1,28 @@
+{
+  "ver": "1.1.2",
+  "uuid": "e2981e1d-3fee-49fc-a27a-4e47a3260100",
+  "isBundle": true,
+  "bundleName": "audioClips",
+  "priority": 1,
+  "compressionType": {
+    "quickgame": "default",
+    "huawei": "subpackage",
+    "wechatgame": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "quickgame": false,
+    "huawei": false,
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "quickgame": false,
+    "huawei": false,
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "quickgame": true,
+    "huawei": false,
+    "wechatgame": false
+  },
+  "subMetas": {}
+}

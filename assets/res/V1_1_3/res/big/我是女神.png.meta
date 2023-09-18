@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c67880e9-2cb4-46ad-bcbf-577086a29706",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "我是女神": {
+      "ver": "1.0.4",
+      "uuid": "7337fef3-8719-40d6-bcde-f01003b80082",
+      "rawTextureUuid": "c67880e9-2cb4-46ad-bcbf-577086a29706",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 349,
+      "height": 88,
+      "rawWidth": 349,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

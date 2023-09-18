@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fireAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "v": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": -0.02,
+                "value": {
+                  "__uuid__": "a0341de0-3c33-410b-a23a-42debcc88f92"
+                }
+              },
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "61803ece-9efc-406d-af55-f8884275b0cb"
+                }
+              },
+              {
+                "frame": 0.02,
+                "value": {
+                  "__uuid__": "9b9e42cc-9230-4068-84ca-3f41962422bb"
+                }
+              },
+              {
+                "frame": 0.04,
+                "value": {
+                  "__uuid__": "b7f352ab-ac29-421b-bba0-8f59ee50a091"
+                }
+              },
+              {
+                "frame": 0.06,
+                "value": {
+                  "__uuid__": "1a2f0c11-1eb4-4765-8c7b-021330d7e606"
+                }
+              },
+              {
+                "frame": 0.08,
+                "value": {
+                  "__uuid__": "bf053bfa-3daf-4956-b730-1337eb8b3ccd"
+                }
+              },
+              {
+                "frame": 0.18,
+                "value": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

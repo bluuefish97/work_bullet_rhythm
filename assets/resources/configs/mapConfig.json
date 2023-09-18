@@ -1,0 +1,30 @@
+﻿[
+    {
+        "id": 0,
+        "mapName": "默认",
+        "ironPath": "skin/map/0",
+        "unlockType": "defulat",
+        "targetCost": 1
+    },
+    {
+        "id": 1,
+        "mapName": "默认",
+        "ironPath": "skin/map/1",
+        "unlockType": "defulat",
+        "targetCost": 10
+    },
+    {
+        "id": 2,
+        "mapName": "默认",
+        "ironPath": "skin/map/2",
+        "unlockType": "defulat",
+        "targetCost": 10
+    },
+    {
+        "id": 3,
+        "mapName": "默认",
+        "ironPath": "skin/map/3",
+        "unlockType": "defulat",
+        "targetCost": 10
+    }
+]

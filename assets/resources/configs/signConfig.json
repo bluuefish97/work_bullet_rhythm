@@ -1,0 +1,58 @@
+﻿[
+    {
+        "id": 0,
+        "dayDes": "第1天",
+        "ironPath": "signIrons/0",
+        "rewardType": "dia",
+        "rewardDes": "x15",
+        "rewardValue":15
+    },
+    {
+        "id": 1,
+        "dayDes": "第2天",
+        "ironPath": "signIrons/1",
+        "rewardType": "dia",
+        "rewardDes": "x30",
+        "rewardValue": 30
+    },
+    {
+        "id": 2,
+        "dayDes": "第3天",
+        "ironPath": "signIrons/2",
+        "rewardType": "dia",
+        "rewardDes": "x50",
+        "rewardValue": 50
+    },
+    {
+        "id": 3,
+        "dayDes": "第4天",
+        "ironPath": "signIrons/3",
+        "rewardType": "dia",
+        "rewardDes": "x75",
+        "rewardValue": 75
+    },
+    {
+        "id": 4,
+        "dayDes": "第5天",
+        "ironPath": "signIrons/4",
+        "rewardType": "dia",
+        "rewardDes": "x100",
+        "rewardValue": 100
+    },
+    {
+        "id": 5,
+        "dayDes": "第6天",
+        "ironPath": "signIrons/5",
+        "rewardType": "dia",
+        "rewardDes": "x150",
+        "rewardValue": 150
+    },
+    {
+        "id": 6,
+        "dayDes": "第7天",
+        "ironPath": "signIrons/6",
+        "rewardType": "skin",
+        "rewardDes": "神秘皮肤",
+        "rewardValue": 200
+    }
+]

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "93fe94f3-cca2-4c25-ad3c-91d96a189757",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 166,
+  "height": 61,
+  "platformSettings": {},
+  "subMetas": {
+    "iron_nengliang(暂定，用spine做动画）": {
+      "ver": "1.0.4",
+      "uuid": "fb1f5c33-3a58-4b40-a826-f22453fd3abc",
+      "rawTextureUuid": "93fe94f3-cca2-4c25-ad3c-91d96a189757",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 166,
+      "height": 61,
+      "rawWidth": 166,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

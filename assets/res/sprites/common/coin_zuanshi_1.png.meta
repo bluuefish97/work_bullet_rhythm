@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e84a2ddc-b704-45c7-a95d-5283fb9cf073",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 57,
+  "height": 45,
+  "platformSettings": {},
+  "subMetas": {
+    "coin_zuanshi_1": {
+      "ver": "1.0.4",
+      "uuid": "61570fa5-2fc2-45a7-ae09-3d87fff8a3b0",
+      "rawTextureUuid": "e84a2ddc-b704-45c7-a95d-5283fb9cf073",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 57,
+      "height": 45,
+      "rawWidth": 57,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "14858868-4343-4a96-b8db-0d11f09e8f86",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 347,
+  "height": 330,
+  "platformSettings": {},
+  "subMetas": {
+    "img_bg_musicload_erji": {
+      "ver": "1.0.4",
+      "uuid": "dbbf2f66-6f99-4e73-a665-52012b4d62e0",
+      "rawTextureUuid": "14858868-4343-4a96-b8db-0d11f09e8f86",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 11,
+      "trimY": 0,
+      "width": 325,
+      "height": 324,
+      "rawWidth": 347,
+      "rawHeight": 330,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

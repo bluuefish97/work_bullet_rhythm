@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.2",
+  "uuid": "5b67669f-5717-44bf-b63c-db8a7c3f3b14",
+  "isBundle": false,
+  "bundleName": "v1.1.4Pop",
+  "priority": 1,
+  "compressionType": {
+    "quickgame": "default"
+  },
+  "optimizeHotUpdate": {
+    "quickgame": false
+  },
+  "inlineSpriteFrames": {
+    "quickgame": false
+  },
+  "isRemoteBundle": {
+    "quickgame": false
+  },
+  "subMetas": {}
+}

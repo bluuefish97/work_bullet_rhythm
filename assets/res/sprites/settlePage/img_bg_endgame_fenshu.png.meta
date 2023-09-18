@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f0f7cc2d-61c5-466e-992a-fe250e9db75e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 378,
+  "height": 175,
+  "platformSettings": {},
+  "subMetas": {
+    "img_bg_endgame_fenshu": {
+      "ver": "1.0.4",
+      "uuid": "377999d3-57f6-4fa1-9e19-2bc67be2781c",
+      "rawTextureUuid": "f0f7cc2d-61c5-466e-992a-fe250e9db75e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 378,
+      "height": 175,
+      "rawWidth": 378,
+      "rawHeight": 175,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

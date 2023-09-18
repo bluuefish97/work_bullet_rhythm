@@ -1,0 +1,24 @@
+{
+  "ver": "1.1.2",
+  "uuid": "634ca92b-33fd-4949-98cb-f50674f6a212",
+  "isBundle": false,
+  "bundleName": "v1.1.4res",
+  "priority": 1,
+  "compressionType": {
+    "bytedance": "default",
+    "quickgame": "default"
+  },
+  "optimizeHotUpdate": {
+    "bytedance": false,
+    "quickgame": false
+  },
+  "inlineSpriteFrames": {
+    "bytedance": false,
+    "quickgame": false
+  },
+  "isRemoteBundle": {
+    "bytedance": true,
+    "quickgame": true
+  },
+  "subMetas": {}
+}

@@ -1,0 +1,26 @@
+export enum Platform {
+    vivo = 0,
+    oppo = 1,
+    android = 2,
+    douYin = 3,
+    qq = 4,
+    ios = 5,
+    wechat = 6,
+    huawei = 7,
+    xiaomi = 8,
+    baidu = 9,
+    web = 10,
+
+}export default {
+   isPngQuant : false,
+   platform : Platform.wechat,
+   appId : "wx10f7e70c0cb7bc41",
+   gameName : "",
+   versionCode : "",
+   versionName : "",
+   productCode : "",
+   productKey : "",
+   minQuality : 0.3,
+   maxQuality : 0.5,
+   isUpload : false,
+}

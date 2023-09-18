@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "251b7484-ddf7-4bab-b990-44efa9a58319",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 895,
+  "height": 131,
+  "platformSettings": {},
+  "subMetas": {
+    "img_bg_endgame_newsong": {
+      "ver": "1.0.4",
+      "uuid": "d7328989-f979-4d1c-a6fe-47faa21d56b7",
+      "rawTextureUuid": "251b7484-ddf7-4bab-b990-44efa9a58319",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 895,
+      "height": 131,
+      "rawWidth": 895,
+      "rawHeight": 131,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

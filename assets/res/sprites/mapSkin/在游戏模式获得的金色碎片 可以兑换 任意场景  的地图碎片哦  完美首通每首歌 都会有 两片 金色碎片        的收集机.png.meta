@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "30ac82d8-57c4-463e-9223-e80325701016",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 571,
+  "height": 385,
+  "platformSettings": {},
+  "subMetas": {
+    "在游戏模式获得的金色碎片 可以兑换 任意场景  的地图碎片哦  完美首通每首歌 都会有 两片 金色碎片        的收集机": {
+      "ver": "1.0.4",
+      "uuid": "7e7e00b8-ff6e-4b82-8aec-b91dbe3fdcb8",
+      "rawTextureUuid": "30ac82d8-57c4-463e-9223-e80325701016",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 571,
+      "height": 385,
+      "rawWidth": 571,
+      "rawHeight": 385,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

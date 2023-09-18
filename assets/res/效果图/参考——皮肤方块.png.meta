@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9dbf402a-2c36-4d76-8bf0-28dcde6e6e1e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 1920,
+  "platformSettings": {},
+  "subMetas": {
+    "参考——皮肤方块": {
+      "ver": "1.0.4",
+      "uuid": "99f995ba-0da3-497a-a840-67b903f1fc96",
+      "rawTextureUuid": "9dbf402a-2c36-4d76-8bf0-28dcde6e6e1e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 1920,
+      "rawWidth": 1080,
+      "rawHeight": 1920,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

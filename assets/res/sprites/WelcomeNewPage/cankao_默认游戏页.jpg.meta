@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d77113cf-55c2-4722-ac53-9699ec3194a7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 2160,
+  "platformSettings": {},
+  "subMetas": {
+    "cankao_默认游戏页": {
+      "ver": "1.0.4",
+      "uuid": "8854691d-5426-40e7-8f46-529213264f43",
+      "rawTextureUuid": "d77113cf-55c2-4722-ac53-9699ec3194a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 2160,
+      "rawWidth": 1080,
+      "rawHeight": 2160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

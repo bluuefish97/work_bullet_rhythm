@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "36fc282c-06c3-4b79-bc30-47d0e1d0df8a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 7,
+  "height": 47,
+  "platformSettings": {},
+  "subMetas": {
+    "img_eft_endgame_music_": {
+      "ver": "1.0.4",
+      "uuid": "b7041ef3-07a3-4853-8000-beb772aab517",
+      "rawTextureUuid": "36fc282c-06c3-4b79-bc30-47d0e1d0df8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 7,
+      "height": 47,
+      "rawWidth": 7,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

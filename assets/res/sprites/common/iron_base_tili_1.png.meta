@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1d89d5a7-8dd7-4dc9-b318-61392372a3cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 61,
+  "height": 30,
+  "platformSettings": {},
+  "subMetas": {
+    "iron_base_tili_1": {
+      "ver": "1.0.4",
+      "uuid": "ec3d685e-219f-4871-8117-cf5f8ef7383c",
+      "rawTextureUuid": "1d89d5a7-8dd7-4dc9-b318-61392372a3cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 61,
+      "height": 30,
+      "rawWidth": 61,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

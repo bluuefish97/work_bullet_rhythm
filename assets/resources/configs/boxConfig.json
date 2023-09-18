@@ -1,0 +1,45 @@
+﻿[
+    {
+        "id": 0,
+        "gunName": "默认",
+        "ironPath": "skin/gun/1",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+
+    {
+        "id": 1,
+        "gunName": "默认",
+        "ironPath": "skin/gun/3",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": 2,
+        "gunName": "默认",
+        "ironPath": "skin/gun/4",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": 3,
+        "gunName": "默认",
+        "ironPath": "skin/gun/5",
+        "unlockType": "dia",
+        "unlockVal": 500
+    },
+    {
+        "id": 4,
+        "gunName": "默认",
+        "ironPath": "skin/gun/6",
+        "unlockType": "ad",
+        "unlockVal": 0
+    },
+    {
+        "id": 5,
+        "gunName": "默认",
+        "ironPath": "skin/gun/7",
+        "unlockType": "dia",
+        "unlockVal": 800
+    }
+]

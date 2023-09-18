@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e0d04128-b6c4-41e6-b05e-bcf764540d9a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 720,
+  "height": 1280,
+  "platformSettings": {},
+  "subMetas": {
+    "子弹节奏-启动页": {
+      "ver": "1.0.4",
+      "uuid": "2ffb2d15-04b9-400d-82c6-904864b1f14d",
+      "rawTextureUuid": "e0d04128-b6c4-41e6-b05e-bcf764540d9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1280,
+      "rawWidth": 720,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d4b80bb1-24fa-42c5-bffb-656454dd50f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "gun_add_Pistol23": {
+      "ver": "1.0.4",
+      "uuid": "35a89f33-d347-4bd7-ae96-602d1432f8e0",
+      "rawTextureUuid": "d4b80bb1-24fa-42c5-bffb-656454dd50f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

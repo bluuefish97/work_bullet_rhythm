@@ -1,0 +1,66 @@
+﻿[
+    {
+        "id": 0,
+        "title": "音乐达人",
+        "des": "累计解锁音乐-首",
+        "ironPath": "achi/iron/1",
+        "baseTarget": 2,
+        "factorTarget": 3,
+        "baseAward": 10,
+        "factorAward": 5
+
+    },
+    {
+        "id":5,
+        "title": "皮肤达人",
+        "des": "拥有-款武器皮肤",
+        "ironPath": "achi/iron/6",
+        "baseTarget": 2,
+        "factorTarget": 2,
+        "baseAward": 5,
+        "factorAward": 5
+    },
+    {
+        "id": 6,
+        "title": "我是神枪手",
+        "des": "三星过关-次",
+        "ironPath": "achi/iron/7",
+        "baseTarget": 2,
+        "factorTarget": 6,
+        "baseAward": 10,
+        "factorAward": 10
+    },
+    {
+        "id": 2,
+        "title": "视频发烧友",
+        "des": "累计观看视频-次",
+        "ironPath": "achi/iron/3",
+        "baseTarget": 3,
+        "factorTarget": 5,
+        "baseAward": 10,
+        "factorAward": 5
+    },
+    {
+        "id": 3,
+        "title": "星星收藏家",
+        "des": "累计获得-颗星星",
+        "ironPath": "achi/iron/4",
+        "baseTarget": 9,
+        "factorTarget": 15,
+        "baseAward": 5,
+        "factorAward": 15
+    },
+    {
+        "id": 4,
+        "title": "我选择死亡",
+        "des": "累计复活-次",
+        "ironPath": "achi/iron/5",
+        "baseTarget": 6,
+        "factorTarget": 4,
+        "baseAward": 6,
+        "factorAward": 5
+    }
+
+
+
+]

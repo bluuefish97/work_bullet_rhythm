@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c44c8aa1-dfa1-45e1-aa9a-65ff08338cb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "T_BoxMusic_Heart_D": {
+      "ver": "1.0.4",
+      "uuid": "727eab3d-44db-4e03-bd14-3fa7acb79a77",
+      "rawTextureUuid": "c44c8aa1-dfa1-45e1-aa9a-65ff08338cb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

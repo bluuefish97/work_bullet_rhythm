@@ -1,0 +1,32 @@
+{
+  "ver": "1.1.2",
+  "uuid": "a3c944c1-cb3b-44b9-af1d-7a3f7bff35b8",
+  "isBundle": true,
+  "bundleName": "remoteSkins",
+  "priority": "10",
+  "compressionType": {
+    "bytedance": "default",
+    "quickgame": "default",
+    "huawei": "subpackage",
+    "wechatgame": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "bytedance": false,
+    "quickgame": false,
+    "huawei": false,
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "bytedance": false,
+    "quickgame": false,
+    "huawei": false,
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "bytedance": true,
+    "quickgame": true,
+    "huawei": false,
+    "wechatgame": false
+  },
+  "subMetas": {}
+}

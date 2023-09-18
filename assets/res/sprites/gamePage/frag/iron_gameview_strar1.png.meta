@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6a1b4c54-58c6-462b-8406-54d7395827b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 119,
+  "height": 121,
+  "platformSettings": {},
+  "subMetas": {
+    "iron_gameview_strar1": {
+      "ver": "1.0.4",
+      "uuid": "7aedf4ee-7f1d-439a-af4d-0af4a4a9e19f",
+      "rawTextureUuid": "6a1b4c54-58c6-462b-8406-54d7395827b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 119,
+      "height": 121,
+      "rawWidth": 119,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

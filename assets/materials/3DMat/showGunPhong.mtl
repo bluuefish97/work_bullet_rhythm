@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.Material",
+  "_name": "showGunPhong",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "abc2cb62-7852-4525-a90d-d474487b88f2"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_ALPHA_TEST": false,
+        "USE_DIFFUSE_TEXTURE": true
+      },
+      "props": {
+        "diffuseTexture": {
+          "__uuid__": "960c67b3-2e1a-469c-9b33-b4e23ae5d1b9"
+        }
+      }
+    }
+  }
+}

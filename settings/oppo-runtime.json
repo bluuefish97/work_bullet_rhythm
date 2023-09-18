@@ -1,0 +1,18 @@
+{
+  "package": "zdjz.xyy.kyx.nearme.gamecenter",
+  "name": "子弹节奏",
+  "icon": "E:\\a_work\\cocosGroup\\CocosProjects_Main\\Music_bullet_rhythm\\Iron\\iron_2.png",
+  "versionName": "1.1.8",
+  "versionCode": "118",
+  "minPlatformVersion": "1060",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "tinyPackageServer": "https://tencentcnd.minigame.xplaymobile.com/Zhangqiang/zdjz/oppo/v1.1.11",
+  "useDebugKey": false,
+  "privatePath": "E:\\a_work\\cocosGroup\\签名\\private.pem",
+  "certificatePath": "E:\\a_work\\cocosGroup\\签名\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": true
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d00e7850-724a-44b1-bae4-9c240db62290",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 2160,
+  "platformSettings": {},
+  "subMetas": {
+    "cankao_试玩页": {
+      "ver": "1.0.4",
+      "uuid": "c23c3a67-0794-434b-8b5a-dd83691aafc8",
+      "rawTextureUuid": "d00e7850-724a-44b1-bae4-9c240db62290",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 2160,
+      "rawWidth": 1080,
+      "rawHeight": 2160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

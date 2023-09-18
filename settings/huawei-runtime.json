@@ -1,0 +1,22 @@
+{
+  "package": "com.xplay.zdjz.huawei",
+  "name": "子弹节奏",
+  "icon": "E:\\a_work\\cocosGroup\\CocosProjects_Main\\Music_bullet_rhythm\\Iron\\iron_2.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1078",
+  "manifestPath": "",
+  "deviceOrientation": "portrait",
+  "fullScreen": true,
+  "logLevel": "log",
+  "runRelease": false,
+  "appType": "fastgame",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "E:\\a_work\\cocosGroup\\签名\\private.pem",
+  "certificatePath": "E:\\a_work\\cocosGroup\\签名\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

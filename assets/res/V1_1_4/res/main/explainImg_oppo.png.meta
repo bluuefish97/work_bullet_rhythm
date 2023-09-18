@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "396cfd67-84fd-4e15-9224-34446f1beb6a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 872,
+  "height": 1837,
+  "platformSettings": {},
+  "subMetas": {
+    "explainImg_oppo": {
+      "ver": "1.0.4",
+      "uuid": "135d2883-d784-4fe6-a43e-e706ca8c76b8",
+      "rawTextureUuid": "396cfd67-84fd-4e15-9224-34446f1beb6a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 872,
+      "height": 1837,
+      "rawWidth": 872,
+      "rawHeight": 1837,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
